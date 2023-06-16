@@ -1,0 +1,2 @@
+# sensitive enviroment data
+.env*
